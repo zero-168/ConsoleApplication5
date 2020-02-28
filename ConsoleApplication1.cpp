@@ -3,4 +3,5 @@ int main() {
 	using namespace std;
 	cout << "ok";
 	cout << "test again";
+	cout << "test again";
 }
